@@ -1,5 +1,5 @@
 bluehost ftp account:
 
-shbftptest@shihabahmad.com
-eDLGXWT&xN*H
-/home/shihabah/shbftptest
+ftp_root@shihabahmad.com
+q19BT?UO@vOz
+/home/shihabah/public_html
