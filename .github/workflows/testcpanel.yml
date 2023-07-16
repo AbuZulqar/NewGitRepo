@@ -14,3 +14,4 @@ jobs:
         server: ftp.shihabahmad.com
         username: shbftptest@shihabahmad.com
         password: ${{ secrets.ftp_password }}
+        server-dir: /shihabahmad.com/
